@@ -1,0 +1,4 @@
+D:\Progect VS tehprog\Project3\Project3\x64\Debug\Project3.vcxproj.AssemblyReference.cache
+D:\Progect VS tehprog\Project3\Project3\x64\Debug\Project3.vcxproj.SuggestedBindingRedirects.cache
+D:\Progect VS tehprog\Project3\Project3\x64\Debug\Project3.MyForm.resources
+D:\Progect VS tehprog\Project3\Project3\x64\Debug\Project3.vcxproj.GenerateResource.cache
