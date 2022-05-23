@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\veret\OneDrive\Рабочий стол\cursa\cursa\Cartoon1.h(308,37): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\veret\OneDrive\Рабочий стол\cursa\cursa\Cartoon1.h(319,37): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Cartoon1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  cursa.vcxproj -> C:\Users\veret\OneDrive\Рабочий стол\cursa\x64\Debug\cursa.exe

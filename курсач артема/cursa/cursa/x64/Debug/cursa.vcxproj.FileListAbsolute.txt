@@ -1,0 +1,5 @@
+C:\Users\veret\OneDrive\Рабочий стол\cursa\cursa\x64\Debug\cursa.vcxproj.AssemblyReference.cache
+C:\Users\veret\OneDrive\Рабочий стол\cursa\cursa\x64\Debug\cursa.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\veret\OneDrive\Рабочий стол\cursa\cursa\x64\Debug\cursa.Cartoon1.resources
+C:\Users\veret\OneDrive\Рабочий стол\cursa\cursa\x64\Debug\cursa.MyForm.resources
+C:\Users\veret\OneDrive\Рабочий стол\cursa\cursa\x64\Debug\cursa.vcxproj.GenerateResource.cache
