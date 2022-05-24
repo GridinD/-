@@ -1,0 +1,11 @@
+﻿  MyForm.cpp
+D:\Progect VS tehprog\form_lab9\form_lab9\MyForm.h(113,94): error C2039: "красныйToolStripMenuItem_Click": не является членом "formlab9::MyForm".
+D:\Progect VS tehprog\form_lab9\form_lab9\MyForm.h(16): message : см. объявление "formlab9::MyForm"
+D:\Progect VS tehprog\form_lab9\form_lab9\MyForm.h(113,1): error C2065: красныйToolStripMenuItem_Click: необъявленный идентификатор
+D:\Progect VS tehprog\form_lab9\form_lab9\MyForm.h(113,1): error C3924: ошибка в аргументе #2 вызова конструктора делегата "System::EventHandler":
+D:\Progect VS tehprog\form_lab9\form_lab9\MyForm.h(113,1): message : требуется указатель на функцию-член
+D:\Progect VS tehprog\form_lab9\form_lab9\MyForm.h(120,94): error C2039: "зеленыйToolStripMenuItem_Click": не является членом "formlab9::MyForm".
+D:\Progect VS tehprog\form_lab9\form_lab9\MyForm.h(16): message : см. объявление "formlab9::MyForm"
+D:\Progect VS tehprog\form_lab9\form_lab9\MyForm.h(120,1): error C2065: зеленыйToolStripMenuItem_Click: необъявленный идентификатор
+D:\Progect VS tehprog\form_lab9\form_lab9\MyForm.h(120,1): error C3924: ошибка в аргументе #2 вызова конструктора делегата "System::EventHandler":
+D:\Progect VS tehprog\form_lab9\form_lab9\MyForm.h(120,1): message : требуется указатель на функцию-член
