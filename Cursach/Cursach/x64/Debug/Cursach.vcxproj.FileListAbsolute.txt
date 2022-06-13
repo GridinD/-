@@ -1,0 +1,5 @@
+D:\Progect VS tehprog\Cursach\Cursach\x64\Debug\Cursach.vcxproj.AssemblyReference.cache
+D:\Progect VS tehprog\Cursach\Cursach\x64\Debug\Cursach.vcxproj.SuggestedBindingRedirects.cache
+D:\Progect VS tehprog\Cursach\Cursach\x64\Debug\Cursach.MyForm.resources
+D:\Progect VS tehprog\Cursach\Cursach\x64\Debug\Cursach.vcxproj.GenerateResource.cache
+D:\Progect VS tehprog\Cursach\Cursach\x64\Debug\Cursach.MyForm1.resources
