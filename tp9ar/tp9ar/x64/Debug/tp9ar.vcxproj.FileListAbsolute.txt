@@ -1,0 +1,4 @@
+D:\Progect VS tehprog\tp9ar\tp9ar\x64\Debug\tp9ar.vcxproj.AssemblyReference.cache
+D:\Progect VS tehprog\tp9ar\tp9ar\x64\Debug\tp9ar.vcxproj.SuggestedBindingRedirects.cache
+D:\Progect VS tehprog\tp9ar\tp9ar\x64\Debug\tp9ar.MyForm.resources
+D:\Progect VS tehprog\tp9ar\tp9ar\x64\Debug\tp9ar.vcxproj.GenerateResource.cache
