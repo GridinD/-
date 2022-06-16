@@ -1,0 +1,4 @@
+C:\Users\veret\OneDrive\Рабочий стол\xui\xui\x64\Debug\xui.vcxproj.AssemblyReference.cache
+C:\Users\veret\OneDrive\Рабочий стол\xui\xui\x64\Debug\xui.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\veret\OneDrive\Рабочий стол\xui\xui\x64\Debug\xui.MyForm.resources
+C:\Users\veret\OneDrive\Рабочий стол\xui\xui\x64\Debug\xui.vcxproj.GenerateResource.cache
